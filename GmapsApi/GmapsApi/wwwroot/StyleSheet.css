@@ -1,0 +1,15 @@
+﻿#map {
+    float:left;
+    width: 800px;
+    height: 600px;
+}
+#div-form{
+    visibility: hidden;
+    
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}

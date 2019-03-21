@@ -1,0 +1,14 @@
+D:\Projects\NetCore\Task4\Task4\bin\Debug\netcoreapp2.1\Task4.deps.json
+D:\Projects\NetCore\Task4\Task4\bin\Debug\netcoreapp2.1\Task4.runtimeconfig.json
+D:\Projects\NetCore\Task4\Task4\bin\Debug\netcoreapp2.1\Task4.runtimeconfig.dev.json
+D:\Projects\NetCore\Task4\Task4\bin\Debug\netcoreapp2.1\Task4.dll
+D:\Projects\NetCore\Task4\Task4\bin\Debug\netcoreapp2.1\Task4.pdb
+D:\Projects\NetCore\Task4\Task4\obj\Debug\netcoreapp2.1\Task4.csprojAssemblyReference.cache
+D:\Projects\NetCore\Task4\Task4\obj\Debug\netcoreapp2.1\Task4.csproj.CoreCompileInputs.cache
+D:\Projects\NetCore\Task4\Task4\obj\Debug\netcoreapp2.1\Task4.RazorAssemblyInfo.cache
+D:\Projects\NetCore\Task4\Task4\obj\Debug\netcoreapp2.1\Task4.RazorAssemblyInfo.cs
+D:\Projects\NetCore\Task4\Task4\obj\Debug\netcoreapp2.1\Task4.AssemblyInfoInputs.cache
+D:\Projects\NetCore\Task4\Task4\obj\Debug\netcoreapp2.1\Task4.AssemblyInfo.cs
+D:\Projects\NetCore\Task4\Task4\obj\Debug\netcoreapp2.1\Task4.RazorTargetAssemblyInfo.cache
+D:\Projects\NetCore\Task4\Task4\obj\Debug\netcoreapp2.1\Task4.dll
+D:\Projects\NetCore\Task4\Task4\obj\Debug\netcoreapp2.1\Task4.pdb

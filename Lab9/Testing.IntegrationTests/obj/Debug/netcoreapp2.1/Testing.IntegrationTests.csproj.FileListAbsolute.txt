@@ -1,0 +1,15 @@
+C:\Users\RadoslawOsn\source\repos\Testing.IntegrationTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\RadoslawOsn\source\repos\Testing.IntegrationTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\RadoslawOsn\source\repos\Testing.IntegrationTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\RadoslawOsn\source\repos\Testing.IntegrationTests\bin\Debug\netcoreapp2.1\Testing.IntegrationTests.dll.config
+C:\Users\RadoslawOsn\source\repos\Testing.IntegrationTests\bin\Debug\netcoreapp2.1\Testing.IntegrationTests.deps.json
+C:\Users\RadoslawOsn\source\repos\Testing.IntegrationTests\bin\Debug\netcoreapp2.1\Testing.IntegrationTests.runtimeconfig.json
+C:\Users\RadoslawOsn\source\repos\Testing.IntegrationTests\bin\Debug\netcoreapp2.1\Testing.IntegrationTests.runtimeconfig.dev.json
+C:\Users\RadoslawOsn\source\repos\Testing.IntegrationTests\bin\Debug\netcoreapp2.1\Testing.IntegrationTests.dll
+C:\Users\RadoslawOsn\source\repos\Testing.IntegrationTests\bin\Debug\netcoreapp2.1\Testing.IntegrationTests.pdb
+C:\Users\RadoslawOsn\source\repos\Testing.IntegrationTests\obj\Debug\netcoreapp2.1\Testing.IntegrationTests.csprojAssemblyReference.cache
+C:\Users\RadoslawOsn\source\repos\Testing.IntegrationTests\obj\Debug\netcoreapp2.1\Testing.IntegrationTests.csproj.CoreCompileInputs.cache
+C:\Users\RadoslawOsn\source\repos\Testing.IntegrationTests\obj\Debug\netcoreapp2.1\Testing.IntegrationTests.AssemblyInfoInputs.cache
+C:\Users\RadoslawOsn\source\repos\Testing.IntegrationTests\obj\Debug\netcoreapp2.1\Testing.IntegrationTests.AssemblyInfo.cs
+C:\Users\RadoslawOsn\source\repos\Testing.IntegrationTests\obj\Debug\netcoreapp2.1\Testing.IntegrationTests.dll
+C:\Users\RadoslawOsn\source\repos\Testing.IntegrationTests\obj\Debug\netcoreapp2.1\Testing.IntegrationTests.pdb

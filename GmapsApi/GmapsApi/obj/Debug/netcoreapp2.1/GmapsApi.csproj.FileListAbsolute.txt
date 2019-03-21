@@ -1,0 +1,14 @@
+D:\Projects\NetCore\GmapsApi\GmapsApi\bin\Debug\netcoreapp2.1\GmapsApi.deps.json
+D:\Projects\NetCore\GmapsApi\GmapsApi\bin\Debug\netcoreapp2.1\GmapsApi.runtimeconfig.json
+D:\Projects\NetCore\GmapsApi\GmapsApi\bin\Debug\netcoreapp2.1\GmapsApi.runtimeconfig.dev.json
+D:\Projects\NetCore\GmapsApi\GmapsApi\bin\Debug\netcoreapp2.1\GmapsApi.dll
+D:\Projects\NetCore\GmapsApi\GmapsApi\bin\Debug\netcoreapp2.1\GmapsApi.pdb
+D:\Projects\NetCore\GmapsApi\GmapsApi\obj\Debug\netcoreapp2.1\GmapsApi.csprojAssemblyReference.cache
+D:\Projects\NetCore\GmapsApi\GmapsApi\obj\Debug\netcoreapp2.1\GmapsApi.csproj.CoreCompileInputs.cache
+D:\Projects\NetCore\GmapsApi\GmapsApi\obj\Debug\netcoreapp2.1\GmapsApi.RazorAssemblyInfo.cache
+D:\Projects\NetCore\GmapsApi\GmapsApi\obj\Debug\netcoreapp2.1\GmapsApi.RazorAssemblyInfo.cs
+D:\Projects\NetCore\GmapsApi\GmapsApi\obj\Debug\netcoreapp2.1\GmapsApi.AssemblyInfoInputs.cache
+D:\Projects\NetCore\GmapsApi\GmapsApi\obj\Debug\netcoreapp2.1\GmapsApi.AssemblyInfo.cs
+D:\Projects\NetCore\GmapsApi\GmapsApi\obj\Debug\netcoreapp2.1\GmapsApi.RazorTargetAssemblyInfo.cache
+D:\Projects\NetCore\GmapsApi\GmapsApi\obj\Debug\netcoreapp2.1\GmapsApi.dll
+D:\Projects\NetCore\GmapsApi\GmapsApi\obj\Debug\netcoreapp2.1\GmapsApi.pdb

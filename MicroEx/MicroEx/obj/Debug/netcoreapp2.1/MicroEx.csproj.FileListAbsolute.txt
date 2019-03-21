@@ -1,0 +1,14 @@
+D:\Projects\NetCore\MicroEx\MicroEx\bin\Debug\netcoreapp2.1\MicroEx.deps.json
+D:\Projects\NetCore\MicroEx\MicroEx\bin\Debug\netcoreapp2.1\MicroEx.runtimeconfig.json
+D:\Projects\NetCore\MicroEx\MicroEx\bin\Debug\netcoreapp2.1\MicroEx.runtimeconfig.dev.json
+D:\Projects\NetCore\MicroEx\MicroEx\bin\Debug\netcoreapp2.1\MicroEx.dll
+D:\Projects\NetCore\MicroEx\MicroEx\bin\Debug\netcoreapp2.1\MicroEx.pdb
+D:\Projects\NetCore\MicroEx\MicroEx\obj\Debug\netcoreapp2.1\MicroEx.csprojAssemblyReference.cache
+D:\Projects\NetCore\MicroEx\MicroEx\obj\Debug\netcoreapp2.1\MicroEx.csproj.CoreCompileInputs.cache
+D:\Projects\NetCore\MicroEx\MicroEx\obj\Debug\netcoreapp2.1\MicroEx.RazorAssemblyInfo.cache
+D:\Projects\NetCore\MicroEx\MicroEx\obj\Debug\netcoreapp2.1\MicroEx.RazorAssemblyInfo.cs
+D:\Projects\NetCore\MicroEx\MicroEx\obj\Debug\netcoreapp2.1\MicroEx.AssemblyInfoInputs.cache
+D:\Projects\NetCore\MicroEx\MicroEx\obj\Debug\netcoreapp2.1\MicroEx.AssemblyInfo.cs
+D:\Projects\NetCore\MicroEx\MicroEx\obj\Debug\netcoreapp2.1\MicroEx.RazorTargetAssemblyInfo.cache
+D:\Projects\NetCore\MicroEx\MicroEx\obj\Debug\netcoreapp2.1\MicroEx.dll
+D:\Projects\NetCore\MicroEx\MicroEx\obj\Debug\netcoreapp2.1\MicroEx.pdb

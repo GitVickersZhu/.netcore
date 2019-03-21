@@ -1,0 +1,10 @@
+C:\Users\RadoslawOsn\source\repos\Testing.UITests\bin\Debug\netcoreapp2.1\Testing.UITests.deps.json
+C:\Users\RadoslawOsn\source\repos\Testing.UITests\bin\Debug\netcoreapp2.1\Testing.UITests.runtimeconfig.json
+C:\Users\RadoslawOsn\source\repos\Testing.UITests\bin\Debug\netcoreapp2.1\Testing.UITests.runtimeconfig.dev.json
+C:\Users\RadoslawOsn\source\repos\Testing.UITests\bin\Debug\netcoreapp2.1\Testing.UITests.dll
+C:\Users\RadoslawOsn\source\repos\Testing.UITests\bin\Debug\netcoreapp2.1\Testing.UITests.pdb
+C:\Users\RadoslawOsn\source\repos\Testing.UITests\obj\Debug\netcoreapp2.1\Testing.UITests.csproj.CoreCompileInputs.cache
+C:\Users\RadoslawOsn\source\repos\Testing.UITests\obj\Debug\netcoreapp2.1\Testing.UITests.AssemblyInfoInputs.cache
+C:\Users\RadoslawOsn\source\repos\Testing.UITests\obj\Debug\netcoreapp2.1\Testing.UITests.AssemblyInfo.cs
+C:\Users\RadoslawOsn\source\repos\Testing.UITests\obj\Debug\netcoreapp2.1\Testing.UITests.dll
+C:\Users\RadoslawOsn\source\repos\Testing.UITests\obj\Debug\netcoreapp2.1\Testing.UITests.pdb
