@@ -1,0 +1,11 @@
+D:\Projects\Visual Studio\FormsLearning\FormsLearning\bin\Debug\FormsLearning.exe.config
+D:\Projects\Visual Studio\FormsLearning\FormsLearning\bin\Debug\FormsLearning.exe
+D:\Projects\Visual Studio\FormsLearning\FormsLearning\bin\Debug\FormsLearning.pdb
+D:\Projects\Visual Studio\FormsLearning\FormsLearning\obj\Debug\FormsLearning.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\FormsLearning\FormsLearning\obj\Debug\FormsLearning.loginInterface.resources
+D:\Projects\Visual Studio\FormsLearning\FormsLearning\obj\Debug\FormsLearning.Properties.Resources.resources
+D:\Projects\Visual Studio\FormsLearning\FormsLearning\obj\Debug\FormsLearning.csproj.GenerateResource.Cache
+D:\Projects\Visual Studio\FormsLearning\FormsLearning\obj\Debug\FormsLearning.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\FormsLearning\FormsLearning\obj\Debug\FormsLearning.exe
+D:\Projects\Visual Studio\FormsLearning\FormsLearning\obj\Debug\FormsLearning.pdb
+D:\Projects\Visual Studio\FormsLearning\FormsLearning\obj\Debug\FormsLearning.MainInterface.resources
